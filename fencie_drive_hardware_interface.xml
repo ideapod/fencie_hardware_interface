@@ -1,0 +1,9 @@
+<library path="fencie_drive_hardware_interface">
+  <class name="fencie_drive_hardware_interface/FencieDriveSystemHardware"
+         type="fencie_drive_hardware_interface::FencieDriveSystemHardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      ros2_control hardware interface.
+    </description>
+  </class>
+</library>
