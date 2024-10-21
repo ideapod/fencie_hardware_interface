@@ -1,0 +1,239 @@
+Encoders:
+Front Right count = -4237
+Rear Right count = 3392
+loopCount: 40
+Encoders:
+Front Right count = -6589
+Rear Right count = 5220
+loopCount: 60
+Encoders:
+Front Right count = -9039
+Rear Right count = 7008
+loopCount: 80
+** Stopping
+Encoders:
+Front Right count = -11400
+Rear Right count = 8930
+loopCount: 100
+Encoders:
+Front Right count = -11400
+Rear Right count = 8930
+loopCount: 100
+Encoders:
+Front Right count = -11548
+Rear Right count = 9059
+loopCount: 120
+Encoders:
+Front Right count = -11548
+Rear Right count = 9059
+loopCount: 140
+Encoders:
+Front Right count = -11548
+Rear Right count = 9059
+loopCount: 160
+Encoders:
+Front Right count = -11548
+Rear Right count = 9059
+loopCount: 180
+** Going Forward
+Encoders:
+Front Right count = -11548
+Rear Right count = 9059
+loopCount: 200
+Encoders:
+Front Right count = -11548
+Rear Right count = 9059
+loopCount: 200
+Encoders:
+Front Right count = -13355
+Rear Right count = 10647
+loopCount: 220
+Encoders:
+Front Right count = -15615
+Rear Right count = 12619
+loopCount: 240
+Encoders:
+Front Right count = -17885
+Rear Right count = 14554
+loopCount: 260
+Encoders:
+Front Right count = -20161
+Rear Right count = 16531
+loopCount: 280
+** Stopping
+Encoders:
+Front Right count = -22569
+Rear Right count = 18457
+loopCount: 300
+Encoders:
+Front Right count = -22569
+Rear Right count = 18457
+loopCount: 300
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 320
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 340
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 360
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 380
+** Going Forward
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 400
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 400
+Encoders:
+Front Right count = -24648
+Rear Right count = 20129
+loopCount: 420
+Encoders:
+Front Right count = -27027
+Rear Right count = 21917
+loopCount: 440
+Encoders:
+Front Right count = -29304
+Rear Right count = 23919
+loopCount: 460
+Encoders:
+Front Right count = -31621
+Rear Right count = 25910
+loopCount: 480
+** Stopping
+Encoders:
+Front Right count = -34142
+Rear Right count = 27982
+loopCount: 500
+Encoders:
+Front Right count = -34142
+Rear Right count = 27982
+loopCount: 500
+Encoders:
+ront Right count = -34294
+Rear Right count = 28118
+loopCount: 520
+Encoders:
+Front Right count = -34294
+Rear Right count = 28118
+loopCount: 540
+Encoders:
+Front Right count = -34294
+Rear Right count = 28118
+loopCount: 560
+Encoders:
+Front Right count = -34294
+Rear Right count = 28118
+loopCount: 580
+** Going Forward
+Encoders:
+Front Right count = -34294
+Rear Right count = 28118
+loopCount: 600
+Encoders:
+Front Right count = -34294
+Rear Right count = 28119
+loopCount: 600
+Encoders:
+Front Right count = -36233
+Rear Right count = 29727
+loopCount: 620
+Encoders:
+Front Right count = -38904
+Rear Right count = 31635
+loopCount: 640
+Encoders:
+Front Right count = -41266
+Rear Right count = 33594
+loopCount: 660
+Encoders:
+Front Right count = -43584
+Rear Right count = 35568
+loopCount: 680
+** Stopping
+Encoders:
+Front Right count = -45947
+Rear Right count = 37577
+loopCount: 700
+Encoders:
+Front Right count = -45947
+Rear Right count = 37577
+loopCount: 700
+Encoders:
+Front Right count = -46103
+Rear Right count = 37716
+loopCount: 720
+Encoders:
+Front Right count = -46103
+Rear Right count = 37716
+loopCount: 740
+Encoders:
+Front Right count = -46103
+Rear Right count = 37716
+loopCount: 760
+Rear Right count = 14554
+loopCount: 260
+Encoders:
+Front Right count = -20161
+Rear Right count = 16531
+loopCount: 280
+Stopping
+Encoders:
+Front Right count = -22569
+Rear Right count = 18457
+loopCount: 300
+Encoders:
+Front Right count = -22569
+Rear Right count = 18457
+loopCount: 300
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 320
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 340
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 360
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 380
+** Going Forward
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 400
+Encoders:
+Front Right count = -22721
+Rear Right count = 18588
+loopCount: 400
+Encoders:
+Front Right count = -24648
+Rear Right count = 20129
+loopCount: 420
+Encoders:
+Front Right count = -27027
+Rear Right count = 21917
+loopCount: 440
+Encoders:
+Front Right count = -29304
+Rear Right count = 23919
+loopCount: 460
+Encoders:
+Front Right count = -31621
+Rear Right count = 25910
+loopCount: 480

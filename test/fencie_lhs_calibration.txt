@@ -1,0 +1,56 @@
+Front Left 2.25 revolutions
+Started - 
+Rear Left 3.5 revolutions 
+
+front left went from -5414 to -10915
+= 5501 between. / 2.25 revs =  2445 counts/ revolution
+rear left went from -8203 to -15845
+= 7642 between. =2183 counts / revolution
+
+
+sounds like bullshit
+
+** Going Forward
+Encoders:
+Front Right count = -14500
+Rear Right count = 7798
+Front Left count = -5414
+Rear Left count = -8203
+loopCount: 200
+Encoders:
+Front Right count = -14500
+Rear Right count = 7798
+Front Left count = -5414
+Rear Left count = -8202
+loopCount: 200
+Encoders:
+Front Right count = -16763
+Rear Right count = 9057
+Front Left count = -6486
+Rear Left count = -9576
+loopCount: 220
+Encoders:
+Front Right count = -19583
+Rear Right count = 10312
+Front Left count = -7598
+Rear Left count = -11118
+loopCount: 240
+Encoders:
+Front Right count = -22879
+Rear Right count = 11809
+Front Left count = -8699
+Rear Left count = -12745
+loopCount: 260
+Encoders:
+Front Right count = -25573
+Rear Right count = 13397
+Front Left count = -9919
+Rear Left count = -14236
+loopCount: 280
+** Stopping
+Encoders:
+Front Right count = -28283
+Rear Right count = 15084
+Front Left count = -10915
+Rear Left count = -15845
+loopCount: 300

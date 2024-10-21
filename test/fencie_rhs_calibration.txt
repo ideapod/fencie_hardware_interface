@@ -1,0 +1,52 @@
+
+Front did 4.25
+so did rear
+
+Front: 
+from -11548  to -22569  = 11021
+11021 / 4.25 = 2593 counts per revolution.
+
+Rear: from 9059 to 18457 = 9398
+9398 / 4.25 = 2211 counts per revolution. 
+
+
+
+
+
+
+
+
+** Going Forward
+Encoders:
+Front Right count = -11548
+Rear Right count = 9059
+loopCount: 200
+Encoders:
+Front Right count = -11548
+Rear Right count = 9059
+loopCount: 200
+Encoders:
+Front Right count = -13355
+Rear Right count = 10647
+loopCount: 220
+Encoders:
+Front Right count = -15615
+Rear Right count = 12619
+loopCount: 240
+Encoders:
+Front Right count = -17885
+Rear Right count = 14554
+loopCount: 260
+Encoders:
+Front Right count = -20161
+Rear Right count = 16531
+loopCount: 280
+** Stopping
+Encoders:
+Front Right count = -22569
+Rear Right count = 18457
+loopCount: 300
+
+
+
+
